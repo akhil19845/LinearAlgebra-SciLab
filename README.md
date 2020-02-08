@@ -1,3 +1,4 @@
 # LinearAlgebra-SciLab
-# Akhil Gbs
-# 4I
+ Akhil Gbs
+ srn:PES1201800188
+ section:4I
